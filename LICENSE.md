@@ -5,13 +5,13 @@ These terms and conditions (“Agreement”) are a legal agreement between you (
 
 ## Commercial Use Conditions
 
-* The Library may be utilized for both internal and external commercial purposes under the condition that all source codes, data, arts, videos or any other assets that utilize the Library, whether directly or indirectly, must be released and distributed to the public under the MIT license for all versions permanently and immediately. This includes but is not limited to hosting the Library from another computer, server or machine.
+* The Library can be utilized for both internal and external commercial purposes under the condition that all source codes, data, arts, models, videos, audios, musics or any other assets that utilize the Library, whether directly or indirectly, must be released and distributed to the public under the MIT license for all versions permanently and immediately. This includes but is not limited to hosting the Library from another computer, server or machine.
 
 * The term "use" encompasses all forms of utilization and application, including integration, modification, and hosting from another computer, server or machine.
 
 * Failure to comply with this condition will result in the User being liable for damages due to non-compliance with the licensing terms.
 
-* The MIT License can be viewed here: https://opensource.org/license/mit.
+* The MIT license can be viewed here: https://opensource.org/license/mit.
 
 ## Prohibited Actions
 User shall not:
@@ -68,7 +68,7 @@ In the event that the User uses the Library for cheating and exploiting, cheat a
 The determination of compensatory damages shall be made by a court of competent jurisdiction, and the User shall be legally bound to fulfill their obligations regarding such damages. The User understands that the Licensor reserves the right to pursue any available legal remedies to enforce these compensatory damages.
 
 ## Waiver of Confidentiality Rights
-User acknowledges and agrees that, in the event Licensor suspects a violation of this Agreement, particularly in cases where the Library is commercially used without a valid commercial license from the Licensor, the User hereby waives all rights to keep the code using the Library confidential. This waiver includes but is not limited to any obligation to maintain confidentiality regarding the Library and its usage, even in relation to the User's clients. In such instances, the User shall not assert any right to confidentiality with respect to the Library, and the User shall fully cooperate with Licensor in any legal proceedings, including the revelation of the code without prior notice. This provision is essential to protect the intellectual property and commercial interests of the Licensor. Should the client possesses or uses the library without valid commercial agreement with the Licensor, they shall be held liable as well regardless if the client is aware of it or not.
+User acknowledges and agrees that, in the event Licensor suspects a violation of this Agreement, particularly in cases where the Library is commercially used without a valid commercial license from the Licensor, the User hereby waives all rights to keep the codes that uses the Library confidential. This waiver includes but is not limited to any obligation to maintain confidentiality regarding the Library and its usage, even in relation to the User's clients. In such instances, the User shall not assert any right to confidentiality with respect to the Library, and the User shall fully cooperate with Licensor in any legal proceedings, including the revelation of the code without prior notice. This provision is essential to protect the intellectual property and commercial interests of the Licensor. Should the client possesses or uses the library without valid commercial agreement with the Licensor, they shall be held liable as well regardless if the client is aware of it or not.
 
 ## Governing Law
 This Agreement shall be governed by and construed in accordance with the laws of a jurisdiction selected at the sole discretion of the Licensor. In the absence of a choice by the Licensor, the laws of Malaysia shall apply.
